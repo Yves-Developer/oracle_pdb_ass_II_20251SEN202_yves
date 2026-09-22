@@ -104,7 +104,7 @@ I did not copy from classmates or use AI tools to generate commands or solutions
 ## Submission Details
 
 ```
-Repository Link: [https://github.com/Yves-Developer/oracle_pdb_ass_II_20251SEN202_yves](https://github.com/Yves-Developer/oracle_pdb_ass_II_20251SEN202_yves)
+Repository Link: https://github.com/Yves-Developer/oracle_pdb_ass_II_20251SEN202_yves
 PDB Name Created: yv_pdb_20251SEN202
 Issues Encountered: [Yes/No]
 ```
